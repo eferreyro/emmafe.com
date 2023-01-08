@@ -31,6 +31,10 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+  <!--MultiLenguaje -->
+
+  <!--Fin Multilenguaje -->
+
 <!--Navbar -->
 <nav class="mb-1 navbar navbar-expand-lg navbar-dark special-color-dark">
   <!-- <a class="navbar-brand" href="#">LOGO</a> -->
