@@ -90,6 +90,7 @@
 </nav>
 <div class="banner-area"></div>
 <!--/.Navbar -->
+  
 <!--First slide-->
 <div class="carousel-item active">
   <!--Mask-->
@@ -120,8 +121,10 @@
     </div>
   </div>
   <!--/Mask-->
+  
 </div>
 <!--/First slide-->
+  
   <!-- jQuery -->
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <!-- Bootstrap tooltips -->
