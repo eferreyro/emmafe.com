@@ -19,7 +19,8 @@
   <meta property="og:locale" content="es_MX" />
   <meta property="og:locale:alternate" content="fr_FR" />
   <meta property="og:locale:alternate" content="en_US" />
-  <!-- MDB icon -->
+  
+  <!-- Favicon -->
   <link rel="icon" href="img/favicon.ico" type="image/x-icon">
   <!-- Font Awesome -->
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
@@ -27,7 +28,7 @@
   <link rel="stylesheet" href="css/bootstrap.min.css">
   <!-- Material Design Bootstrap -->
   <link rel="stylesheet" href="css/mdb.min.css">
-  <!-- Your custom styles (optional) -->
+  <!-- Custom styles -->
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
