@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 /* Boton Idioma */
-
+/*Para poder agregar un boton tipo SLIDE necesito declarar tambien un archivo tipo LANG*/
 /* End Translate Button */
 <head>
     <meta charset="UTF-8">
