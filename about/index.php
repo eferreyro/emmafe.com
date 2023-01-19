@@ -262,7 +262,7 @@
                 <ul>
                     <li><i class="fa fa-gamepad" aria-hidden="true"></i> Gaming</li>
                     <li><i class="fa fa-coffee" aria-hidden="true"></i> Cofee</li>
-                    <li><i class="fa fa-book" aria-hidden="true"></i> Reading</li>
+                    <li><i class="fa fa-medal" aria-hidden="true"></i> Reading</li>
                     <li><i class="fa fa-hand-spock-o" aria-hidden="true"></i> Rugby</li>
                     <li><i class="fa fa-plane" aria-hidden="true"></i> Travel</li>
                     <li><i class="fa fa-motorcycle" aria-hidden="true"></i> Motocross</li>
