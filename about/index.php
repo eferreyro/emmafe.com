@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-/* Boton Idioma */
-    
-/*Para poder agregar un boton tipo SLIDE necesito declarar tambien un archivo tipo LANG*/
-    
-/* End Translate Button */
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,6 +13,7 @@
 </head>
 
 <body>
+
     <div class="container">
         <div class="lSide">
             <div class="profileText">
@@ -99,8 +95,11 @@
                 </ul>
             </div>
         </div>
-    
         <div class="rSide">
+            <!--MultiLenguaje -->
+            <a href="#">English</a>
+    <span class="loading-lang">Cargando...</span>
+    <!--Fin Multilenguaje -->
             <div class="profile">
 
                 <h2 class="title2">Profile</h2>

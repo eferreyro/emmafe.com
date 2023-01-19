@@ -33,7 +33,8 @@
 </head>
 <body>
   <!--MultiLenguaje -->
-
+  <a href="#">English</a>
+  <span class="loading-lang">Cargando...</span>
   <!--Fin Multilenguaje -->
 
 <!--Navbar -->
@@ -126,7 +127,7 @@
 </div>
 <!--/First slide-->
   
-  <!-- jQuery -->
+  <!--  jQuery v3.4.1  -->
   <script type="text/javascript" src="js/jquery.min.js"></script>
   <!-- Bootstrap tooltips -->
   <script type="text/javascript" src="js/popper.min.js"></script>
