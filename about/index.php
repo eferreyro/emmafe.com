@@ -104,7 +104,7 @@
             <div class="profile">
 
                 <h2 class="title2">Profile</h2>
-                <p>Mi perfil es Técnico, electrónico y analista de sistemas con experiencia en el rubro de entretenimientos,
+                <p id='profile'>Mi perfil es Técnico, electrónico y analista de sistemas con experiencia en el rubro de entretenimientos,
                     conocimientos en sistemas Cashless, TiTo y MiCo. <br><br>
                 <p>Tengo aptitudes de liderazgo de equipos de trabajo de alto desempeño, buscando siempre la mejor eficiencia laboral.
                 <p> Entre mis habilidades profesionales, puedo nombrar el armado y reparación de maquinas tragamonedas de las principales marcas del mercado, estructuras de redes, administración de
@@ -124,7 +124,7 @@
                     </div>
                     <div class="text">
                         <h4>System Engyneer</h4>
-                        <p>Actualmente trabajando en proyectos de servidores y brindando el mejor servicio de una enorme y muy gratificante empresa. En constante aprendizaje y crecimiento con sistemas Windows Server y SQL Server.</p>
+                        <p id='job1'>Actualmente trabajando en proyectos de servidores y brindando el mejor servicio de una enorme y muy gratificante empresa. En constante aprendizaje y crecimiento con sistemas Windows Server y SQL Server.</p>
                     </div>
                 </div>
                 <hr>
@@ -135,7 +135,7 @@
                     </div>
                     <div class="text">
                         <h4>IT System Manager</h4>
-                        <p>Trabaje como Gerente de Sistemas y lider de un excelente equipo de trabajo con 7 casinos en todo Mexico. El logro que mas me enorgullece de esta epoca laboral y profesional fue haber logrado una meta constante
+                        <p id='job2'>Trabaje como Gerente de Sistemas y lider de un excelente equipo de trabajo con 7 casinos en todo Mexico. El logro que mas me enorgullece de esta epoca laboral y profesional fue haber logrado una meta constante
                             y casi inalterable de mantener menos del 3% de un parque de casi 3000 maquinas tragamonedas Fuera de Servicio. Ademas, la empresa me permitio crecer internamente, hasta lograr formar un equipo solido de Tecnicos altamente capacitados.
                         </p>
                     </div>
@@ -148,7 +148,7 @@
                     </div>
                     <div class="text">
                         <h4>Team Leader & Install Manager</h4>
-                        <p>Me especialice en la instalacion y participe en muchos proyectos de migracion e instalacion de sistemas de maquinas tragamonedas de Argentina y paises limitrofes.</p>
+                        <p id='job3'>Me especialice en la instalacion y participe en muchos proyectos de migracion e instalacion de sistemas de maquinas tragamonedas de Argentina y paises limitrofes.</p>
                     </div>
                 </div>
                 <hr>
