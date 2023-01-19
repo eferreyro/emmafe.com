@@ -106,7 +106,7 @@
                 <h2 class="title2">Profile</h2>
                 <p>Mi perfil es Técnico, electrónico y analista de sistemas con experiencia en el rubro de entretenimientos,
                     conocimientos en sistemas Cashless, TiTo y MiCo. <br><br>
-                <p>Tengo aptitudes de liderazgo de equipos de trabajo de alto desempeño, buscando siempre la eficiencia y el mejor desempeño laboral.
+                <p>Tengo aptitudes de liderazgo de equipos de trabajo de alto desempeño, buscando siempre la mejor eficiencia laboral.
                 <p> Entre mis habilidades profesionales, puedo nombrar el armado y reparación de maquinas tragamonedas de las principales marcas del mercado, estructuras de redes, administración de
                     IT y sistemas de seguridad de la información, con sólidos conocimientos en Electrónica y Programación.<br><br>
                     Actualmente me encuentro en la formacion de proyectos de servidores de alta disponibilidad y aprendiendo
