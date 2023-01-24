@@ -153,7 +153,7 @@
                 <hr>
 
             </div>
-            <div class="about skills">
+            <!-- <div class="about skills">
                 <h2 class="title2">Professional Skills</h2>
                 <div class="box">
                     <h4>CSS</h4>
@@ -254,7 +254,7 @@
                     </div>
                 </div>
 
-            </div>
+            </div> -->
             <div class="about interest">
                 <h2 class="title2">Interest</h2>
 

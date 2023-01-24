@@ -32,10 +32,7 @@
   <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-  <!--MultiLenguaje -->
-  <a href="#">English</a>
-  <span class="loading-lang">Cargando...</span>
-  <!--Fin Multilenguaje -->
+
 
 <!--Navbar -->
 <nav class="mb-1 navbar navbar-expand-lg navbar-dark special-color-dark">
