@@ -134,8 +134,8 @@
                     </div>
                     <div class="text">
                         <h4>IT System Manager</h4>
-                        <p id='job2'>Trabaje como Gerente de Sistemas y lider de un excelente equipo de trabajo con 7 casinos en todo Mexico. El logro que mas me enorgullece de esta epoca laboral y profesional fue haber logrado una meta constante
-                            y casi inalterable de mantener menos del 3% de un parque de 3000 maquinas tragamonedas Fuera de Servicio. Ademas, la empresa me permitio crecer internamente, hasta lograr formar un equipo solido de Tecnicos altamente capacitados.
+                        <p id='job2'>Trabaje como Gerente de Sistemas y lider de un excelente equipo de trabajo con 7 casinos en todo Mexico. El logro que mas me enorgullece de esta epoca laboral y profesional fue haber logrado una meta constante,
+                            y casi inalterable, de mantener menos del 3% de un parque de 3000 maquinas tragamonedas Fuera de Servicio. Ademas, la empresa me permitio crecer internamente, hasta lograr formar un equipo solido de Tecnicos altamente capacitados.
                         </p>
                     </div>
                 </div>
